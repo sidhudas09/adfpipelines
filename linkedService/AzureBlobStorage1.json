@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"connectionString": "DefaultEndpointsProtocol=https;AccountName=demostgacts;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFERlNZTkNQSVBFTElORVNfNDU5YmMzMWUtY2ViYy00NGZlLTkyZjQtZWQ1NTJjMTk0NmY5Ig0KfQ=="
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=csgbd6944204dfdx481cxba3;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFTVFVESU9TWU5DXzJjNDUxZTdjLTI2NzktNDEyNi1iMmE3LTQ4ZWFjMTVhMWVjZCINCn0="
 		}
 	}
 }
