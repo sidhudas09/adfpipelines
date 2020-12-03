@@ -11,6 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "201612-WeatherData.txt.txt",
+				"folderPath": "api",
 				"container": "datafiles"
 			},
 			"columnDelimiter": ",",
