@@ -3,21 +3,14 @@
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Stopped",
-		"pipelines": [
-			{
-				"pipelineReference": {
-					"referenceName": "iterationPipeline",
-					"type": "PipelineReference"
-				}
-			}
-		],
+		"pipelines": [],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
 				"frequency": "Minute",
 				"interval": 1,
-				"startTime": "2020-09-24T11:48:00.000Z",
-				"endTime": "2020-09-25T11:48:00.000Z",
+				"startTime": "2020-09-24T11:48:00Z",
+				"endTime": "2020-09-25T11:48:00Z",
 				"timeZone": "UTC"
 			}
 		}
